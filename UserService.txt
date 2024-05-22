@@ -1,3 +1,6 @@
 Get the user data.......
 and add them up
 then store it in ans variable
+
+
+Create an avatar for user
